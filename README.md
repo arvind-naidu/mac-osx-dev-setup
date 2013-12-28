@@ -1,4 +1,4 @@
-Mac-OSX-Dev-Setup
+mac-osx-dev-setup
 =================
 
 Got a shining new Macbook and have no idea of how to get it up and running for development? Don't worry as you have come to the right place.
