@@ -1,5 +1,5 @@
 mac-osx-dev-setup
-=================
+===============
 
 Got a shining new Macbook and have no idea of how to get it up and running for development? Don't worry as you have come to the right place.
 	
@@ -13,7 +13,8 @@ Along with it, we will also install frameworks to further enhance development wo
 
 >Invest time learning to configure your machine and automate processes, you’ll get that time back ten fold.
 
-If you have any comments or suggestions, feel free to contact me on [Twitter](https://twitter.com/rvine-naidu)
+If you have any comments or suggestions, feel free to contact me on [Twitter](https://twitter.com/rvine-naidu).
+
 List of things that will be done in order to set up the new Mac:
 
 - System Update
