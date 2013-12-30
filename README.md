@@ -32,3 +32,6 @@ List of things that will be done in order to set up the new Mac:
 - Redis
 - Projects Folder
 - Apps
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/arvind-naidu/mac-osx-dev-setup/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
