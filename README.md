@@ -1,5 +1,7 @@
 mac-osx-dev-setup
-===============
+=================
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/arvind-naidu/mac-osx-dev-setup/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 Got a shining new Macbook and have no idea of how to get it up and running for development? Don't worry as you have come to the right place.
 	
@@ -11,7 +13,7 @@ We will set up Node, Python, & Ruby environments, which is mainly used for Javas
 
 Along with it, we will also install frameworks to further enhance development workflow such as Yeoman, Bower, Grunt and many more.
 
->Invest time learning to configure your machine and automate processes, you’ll get that time back ten fold.
+>Invest time learning to configure your machine and automated processes, you’ll get that time back ten fold.
 
 If you have any comments or suggestions, feel free to contact me on [Twitter](https://twitter.com/rvine-naidu).
 
@@ -33,5 +35,5 @@ List of things that will be done in order to set up the new Mac:
 - Projects Folder
 - Apps
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/arvind-naidu/mac-osx-dev-setup/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 
