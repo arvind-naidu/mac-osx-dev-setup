@@ -2,6 +2,7 @@ mac-osx-dev-setup
 =================
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/arvind-naidu/mac-osx-dev-setup/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Analytics](https://ga-beacon.appspot.com/UA-XXXXX-X/your-repo/page-name)](https://github.com/igrigorik/ga-beacon)
 
 Got a shining new Macbook and have no idea of how to get it up and running for development? Don't worry as you have come to the right place.
 	
